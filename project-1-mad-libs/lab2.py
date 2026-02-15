@@ -6,3 +6,5 @@
 - Class: Software Engineering
 - Description: Write a program that asks for and greets a user by name.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+name = input("Enter a word: ")
+print("hello", name)
