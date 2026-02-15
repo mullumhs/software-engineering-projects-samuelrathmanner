@@ -6,3 +6,5 @@
 - Class: Software Engineering
 - Description: Write a program that prints out "Hello, World!".
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+print("Hello, world")
